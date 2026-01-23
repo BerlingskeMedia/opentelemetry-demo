@@ -27,7 +27,7 @@ opentelemetry-proto==1.17.0
 opentelemetry-sdk==1.17.0
 opentelemetry-semantic-conventions==0.38b0
 opentelemetry-util-http==0.38b0
-protobuf==4.22.3
+protobuf==7.34.0rc1
 psutil==5.9.5
 pyzmq==25.0.2
 requests==2.31.0
